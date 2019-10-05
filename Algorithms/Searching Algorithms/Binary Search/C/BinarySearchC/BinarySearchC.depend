@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1570300799 source:c:\users\dell\algorithms-4-everyone\algorithms\searching algorithms\binary search\c\binarysearchc\main.c
+	<stdio.h>
+	<stdlib.h>
+
